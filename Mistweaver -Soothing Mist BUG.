@@ -1,0 +1,5 @@
+Class; Mistweaver
+Spell: https://mop-shoot.tauri.hu/?spell=115175  
+Spellname: Soothing Mist (channeled)
+Where it Happens:  DUNGEONS and INSTANCES. 
+BUG: The amount of healing done doesn't match the tooltip on the skill, the numbers are lower than they should be. If a spell says by calculation that it should heal 20k over 8 seconds.  When you cast it it is healing around 10% less than it should.
